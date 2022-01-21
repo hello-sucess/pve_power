@@ -13,5 +13,5 @@ vim /etc/crontab
 30 23 * * * root /bin/mypve
 
 example:
-  mypve start | stop
-  mypve 3
+mypve start | stop
+mypve 3
